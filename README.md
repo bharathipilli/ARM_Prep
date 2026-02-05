@@ -1,5 +1,5 @@
 # ARM_Prep
-# Day 1: RISC vs CISC + Basic idea + History of ARM
+# Day 1: RISC vs CISC 
 
 ## Part 1: What is CISC?
 
@@ -23,7 +23,7 @@ ADD AX, 10      ; Add 10 to AX
 
 - More complex CPU design  
 - Slower execution for some instructions  
-- Harder to pipeline
+- Harder to pipeline  
 
 ## Part 2: What is RISC?
 
