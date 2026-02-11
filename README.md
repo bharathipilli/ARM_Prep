@@ -211,7 +211,6 @@ ARM divided this into 3 sub-families for targeted applications:
 | Cortex-A    | Phones, tablets, high-end apps   | Full OS, high performance    |
 
 
-## Conclusion:
 
 - **ARM7/9**: Older, used in simpler embedded systems
 - **Cortex-M**: Ideal for low-power embedded and IoT devices
